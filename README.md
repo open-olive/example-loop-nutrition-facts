@@ -1,4 +1,4 @@
-# Nutriotion Facts Loop
+# Nutrition Facts Loop
 
 This code is inteded to be used for educational purposes when learning about the Loop Development Kit (LDK) used by Olive Helps
 
